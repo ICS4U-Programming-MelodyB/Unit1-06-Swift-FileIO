@@ -1,0 +1,7 @@
+The sum of numbers is: 25
+Please enter a valid input.
+The sum of numbers is: 24
+The sum of numbers is: -52
+The sum of numbers is: 0
+Integers not detected.
+The sum of numbers is: 71
